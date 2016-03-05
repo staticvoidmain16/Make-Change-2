@@ -1,3 +1,6 @@
+//	03/04/16
+//	staticvoidmain16
+
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;
 
